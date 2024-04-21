@@ -74,3 +74,6 @@ Running Held Karp
 18 cities in 17.36208340 seconds on average
 19 cities in 44.70391720 seconds on average
 ```
+
+### Final Thoughts
+It seems that the time difference between python, node, and c++ with optimizations is pretty small all things considered. The really interesting part I think is how badly the AI converted code ran and that is also after I had to spend ~2 hours fixing the code it gave me by telling it the errors the build produced. So it really proves that once again that even with a fast language such a c++ if you give it bad code or poorly written code its going to run very poorly. Also it shows that compilers optimizations are very cool and a very easy way to potentialy "save/fix" very slow code.
