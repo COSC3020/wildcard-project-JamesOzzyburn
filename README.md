@@ -6,4 +6,25 @@ to explain what problem you're solving, how you're doing it, and that you test
 your code.
 
 
-## Answer maybe do something comparing node.js and c++????????
+## Project Description
+For my wildcard project I decided to try and compare the runtime of different languages namly javascript and python (I also used chatgpt to convert the code into c++ as well, just to how well an ai would write code). For the first part of my project so I started out by first taking my tsp held karp implementation and adding a timing function at the end that ran a through a fixed set of matricies 10 times each and then calculated the average. I made matricies with city sizes of 10-19 as those are the ones in my testing that ran in a reasonable amount of time. For my runtime tests I ran it on my own laptop thriugh wsl2 using Ubuntu. 
+
+### Node run
+```
+
+```
+
+### Python run
+```
+
+```
+
+### C++ run with no optimizations
+```
+
+```
+
+### C++ run with compiler optimizations
+```
+
+```
