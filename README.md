@@ -43,7 +43,19 @@ Running Held Karp
 
 ### C++ run with no optimizations
 ```
-
+root@James-Windows:/home/nick/testing_algo/wildcard# g++ -o code code.cpp
+root@James-Windows:/home/nick/testing_algo/wildcard# ./code
+Running Held Karp
+10 cities in 0.08858090 seconds on average
+11 cities in 0.23183990 seconds on average
+12 cities in 0.61720220 seconds on average
+13 cities in 1.61320670 seconds on average
+14 cities in 3.93221660 seconds on average
+15 cities in 9.67804750 seconds on average
+16 cities in 23.76998470 seconds on average
+17 cities in 57.66779610 seconds on average
+18 cities in 147.18429010 seconds on average
+19 cities in 333.78606780 seconds on average
 ```
 
 ### C++ run with compiler optimizations
