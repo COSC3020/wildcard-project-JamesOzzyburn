@@ -27,7 +27,18 @@ Running Held Karp
 
 ### Python run
 ```
-
+root@James-Windows:/home/nick/testing_algo/wildcard# python3 pycode.py
+Running Held Karp
+10 cities in 0.01972353 seconds on average
+11 cities in 0.04794586 seconds on average
+12 cities in 0.12224712 seconds on average
+13 cities in 0.30389297 seconds on average
+14 cities in 0.73808115 seconds on average
+15 cities in 1.78737695 seconds on average
+16 cities in 4.23764100 seconds on average
+17 cities in 9.93840678 seconds on average
+18 cities in 23.29102845 seconds on average
+19 cities in 54.40469213 seconds on average
 ```
 
 ### C++ run with no optimizations
