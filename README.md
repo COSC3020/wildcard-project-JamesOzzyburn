@@ -7,7 +7,7 @@ your code.
 
 
 ## Project Description
-For my wildcard project I decided to try and compare the runtime of different languages namly javascript and python (I also used chatgpt to convert the code into c++ as well, just to how well an ai would write code). For the first part of my project so I started out by first taking my tsp held karp implementation and adding a timing function at the end that ran a through a fixed set of matricies 10 times each and then calculated the average. I made matricies with city sizes of 10-19 as those are the ones in my testing that ran in a reasonable amount of time. For my runtime tests I ran it on my own laptop thriugh wsl2 using Ubuntu. 
+For my wildcard project I decided to try to compare the runtime of different languages namely JavaScript and python (I also used ChatGPT to convert the code into c++ as well, just to how well an AI would write code). For the code in my project, I started out by taking my tsp held karp implementation and adding a timing function at the end that ran a through a fixed set of matrices 10 times each and then calculated the average. I made matrices with city sizes of 10-19 as those are the ones in my testing that ran in a reasonable amount of time. For my runtime tests, I ran it on my own laptop through wsl2 running Ubuntu. 
 
 ### Node run
 ```
@@ -76,4 +76,4 @@ Running Held Karp
 ```
 
 ### Final Thoughts
-It seems that the time difference between python, node, and c++ with optimizations is pretty small all things considered. The really interesting part I think is how badly the AI converted code ran and that is also after I had to spend ~2 hours fixing the code it gave me by telling it the errors the build produced. So it really proves that once again that even with a fast language such a c++ if you give it bad code or poorly written code its going to run very poorly. Also it shows that compilers optimizations are very cool and a very easy way to potentialy "save/fix" very slow code.
+It seems that the time difference between python, node, and c++ with optimizations is pretty small all things considered. The fascinating part I think is how badly the AI converted code ran, and that is also after I had to spend ~2 hours fixing the code it gave me by telling it the errors the build produced. So it really proves that once again that even with a fast language such a c++ if you give it bad code or poorly written code it's going to run very poorly. Also, it shows that compilers' optimizations are very cool and a very easy way to potentially “save/fix” very slow code.
