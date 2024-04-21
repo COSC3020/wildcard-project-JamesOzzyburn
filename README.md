@@ -11,7 +11,18 @@ For my wildcard project I decided to try and compare the runtime of different la
 
 ### Node run
 ```
-
+root@James-Windows:/home/nick/testing_algo/wildcard# node code.js
+Running Held Karp
+10 cities in 0.01460000 seconds on average
+11 cities in 0.03170000 seconds on average
+12 cities in 0.07650000 seconds on average
+13 cities in 0.18930000 seconds on average
+14 cities in 0.45630000 seconds on average
+15 cities in 1.11770000 seconds on average
+16 cities in 2.69810000 seconds on average
+17 cities in 6.33830000 seconds on average
+18 cities in 15.16460000 seconds on average
+19 cities in 35.21300000 seconds on average
 ```
 
 ### Python run
