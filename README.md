@@ -7,7 +7,7 @@ your code.
 
 
 ## Project Description
-For my wildcard project I decided to try to compare the runtime of different languages namely JavaScript and python (I also used ChatGPT to convert the code into c++ as well, just to how well an AI would write code). For the code in my project, I started out by taking my tsp held karp implementation and adding a timing function at the end that ran a through a fixed set of matrices 10 times each and then calculated the average. I made matrices with city sizes of 10-19 as those are the ones in my testing that ran in a reasonable amount of time. For my runtime tests, I ran it on my own laptop through wsl2 running Ubuntu. 
+For my wildcard project I decided to try to compare the runtime of different languages namely JavaScript and Python (I also used ChatGPT to convert the code into c++ as well, just to how well an AI would write code). For the code in my project, I started out by taking my tsp held karp implementation and adding a timing function at the end that ran a through a fixed set of matrices 10 times each and then calculated the average. I made matrices with city sizes of 10-19 as those are the ones in my testing that ran in a reasonable amount of time. For my runtime tests, I ran it on my own laptop through wsl2 running Ubuntu. 
 
 ### Node run
 ```
